@@ -6,3 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         aside.classList.toggle('active');
     });
   });
+
+document.getElementById('chat').addEventListener('click', () => {
+    alert('Hiciste click en chat');
+});
