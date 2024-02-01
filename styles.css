@@ -71,10 +71,10 @@
     justify-content: space-between;
     padding: 10px;
     margin: 2em;
-    border-bottom: 1px solid #006E90; /* Optional: Add a border at the bottom of the item */
+    border-bottom: 1px solid #006E70; /* Optional: Add a border at the bottom of the item */
     position: relative;
     text-decoration: none;
-    color: black;
+    color: #000;
   }
   
   .submenu-arrow {
